@@ -1,9 +1,9 @@
 ---
 Title: 'realloc()'
+Description: 'Reallocates a block of memory.'
 Subjects:
   - 'Code Foundations'
   - 'Computer Science'
-Description: ''
 Tags:
   - 'Memory'
   - 'Memory Management'
